@@ -8,7 +8,7 @@ Here are the programming languages, frameworks, and tools that I am proficient i
  
  **Languages**: Java, C, C++, Python, Kotlin
  <br>
- **Other Tools**: Gradle, Git, Visual Studio Code
+ **Other Tools**: Gradle, Git.
 
 ## Preferred IDE's
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
